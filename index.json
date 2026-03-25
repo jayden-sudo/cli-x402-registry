@@ -6,11 +6,7 @@
       "description": "Email inboxes for AI agents.",
       "categories": ["ai", "social"],
       "serviceUrl": "https://x402.api.agentmail.to",
-      "tags": ["email", "inboxes", "domains", "drafts", "threads", "webhooks", "messaging"],
-      "docs": {
-        "homepage": "https://docs.agentmail.to"
-      },
-      "endpoints": []
+      "tags": ["email", "inboxes", "domains", "drafts", "threads", "webhooks", "messaging"]
     },
     {
       "id": "browserbase",
@@ -18,12 +14,39 @@
       "description": "Headless browser sessions, web search, and page fetching for AI agents.",
       "categories": ["web", "compute", "search"],
       "serviceUrl": "https://x402.browserbase.com",
-      "tags": ["browser", "scraping", "automation", "headless", "search", "fetch"],
-      "docs": {
-        "homepage": "https://docs.browserbase.com",
-        "llmsTxt": "https://docs.browserbase.com/llms.txt"
-      },
-      "endpoints": []
+      "tags": ["browser", "scraping", "automation", "headless", "search", "fetch"]
+    },
+    {
+      "id": "agoragentic",
+      "name": "Agoragentic",
+      "description": "AI agent service marketplace with pay-per-use invocations via HTTP 402. Browse catalog and invoke services without registration.",
+      "categories": ["ai", "marketplace", "services"],
+      "serviceUrl": "https://agoragentic.com",
+      "tags": ["ai-agents", "marketplace", "devtools", "creative", "memory"]
+    },
+    {
+      "id": "imference",
+      "name": "Imference",
+      "description": "High-performance image generation API powered by state-of-the-art AI models.",
+      "categories": ["ai", "image", "generation"],
+      "serviceUrl": "https://imference.com",
+      "tags": ["image-generation", "ai", "text-to-image", "stable-diffusion"]
+    },
+    {
+      "id": "kurier",
+      "name": "Kurier",
+      "description": "Submit zero-knowledge proofs for on-chain verification via zkVerify. Supports multiple proof types including groth16, plonky2, risc0, fflonk, ultraplonk, sp1, ultrahonk, and ezkl.",
+      "categories": ["blockchain", "zk-proof", "verification"],
+      "serviceUrl": "https://api.kurier.xyz",
+      "tags": ["zero-knowledge", "zk-proof", "blockchain", "verification", "zkverify"]
+    },
+    {
+      "id": "run402",
+      "name": "Run402",
+      "description": "Full-stack infrastructure for AI agents: Postgres database + REST API + user auth + file storage + RLS + static site hosting + image generation. Prototype tier is FREE.",
+      "categories": ["infrastructure", "database", "hosting", "ai"],
+      "serviceUrl": "https://api.run402.com",
+      "tags": ["postgres", "database", "api", "auth", "storage", "hosting", "static-site", "image-generation"]
     }
   ]
 }

@@ -5,9 +5,9 @@
   "categories": ["ai", "social"],
   "serviceUrl": "https://x402.api.agentmail.to",
   "tags": ["email", "inboxes", "domains", "drafts", "threads", "webhooks", "messaging"],
-  "docs": {
-    "homepage": "https://docs.agentmail.to"
-  },
+  "docs": [
+    "https://docs.agentmail.to"
+  ],
   "endpoints": [
     {
       "method": "GET", "path": "/v0/inboxes", "description": "List inboxes", "pricing": { "type": "free" }

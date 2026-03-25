@@ -5,10 +5,10 @@
   "categories": ["web", "compute", "search"],
   "serviceUrl": "https://x402.browserbase.com",
   "tags": ["browser", "scraping", "automation", "headless", "search", "fetch"],
-  "docs": {
-    "homepage": "https://docs.browserbase.com",
-    "llmsTxt": "https://docs.browserbase.com/llms.txt"
-  },
+  "docs": [
+    "https://docs.browserbase.com",
+    "https://docs.browserbase.com/llms.txt"
+  ],
   "endpoints": [
     {
       "method": "POST", "path": "/browser/session/create", "description": "Create a browser session", "pricing": { "type": "dynamic", "description": "dynamic charge" },
