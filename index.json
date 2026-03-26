@@ -31,6 +31,14 @@
       "categories": ["infrastructure", "database", "hosting", "ai"],
       "serviceUrl": "https://api.run402.com",
       "tags": ["postgres", "database", "api", "auth", "storage", "hosting", "static-site", "image-generation"]
+    },
+    {
+      "id": "pinata",
+      "name": "Pinata",
+      "description": "Account-free IPFS uploads and retrievals using crypto payments, powered by x402. Pay for private or public IPFS storage and retrieval without an account or API key.",
+      "categories": ["storage", "ipfs", "web3"],
+      "serviceUrl": "https://402.pinata.cloud",
+      "tags": ["ipfs", "storage", "decentralized", "file-upload", "retrieval"]
     }
   ]
 }
