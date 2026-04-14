@@ -1,4 +1,5 @@
 {
+    "ENABLE": true,
     "id": "pinata",
     "name": "Pinata",
     "description": "Account-free IPFS uploads and retrievals using crypto payments, powered by x402. Pay for private or public IPFS storage and retrieval without an account or API key.",

@@ -1,4 +1,5 @@
 {
+  "ENABLE": false,
   "id": "kurier",
   "name": "Kurier",
   "description": "Submit zero-knowledge proofs for on-chain verification via zkVerify. Supports multiple proof types including groth16, plonky2, risc0, fflonk, ultraplonk, sp1, ultrahonk, and ezkl.",

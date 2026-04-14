@@ -1,4 +1,5 @@
 {
+  "ENABLE": true,
   "id": "twitsh",
   "name": "twit.sh",
   "description": "Real-time X data streams for AI agents with per-request USDC payments on Base via x402.",
